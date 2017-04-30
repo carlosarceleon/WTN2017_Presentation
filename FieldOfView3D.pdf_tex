@@ -1,0 +1,61 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'FieldOfView3D.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{183.1428684bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.03090172)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{FieldOfView3D.pdf}}%
+    \put(0.43194106,0.81366315){\color[rgb]{0,0,0}\rotatebox{-20.18373326}{\makebox(0,0)[b]{\smash{$\unit{26}{\milli\metre}$}}}}%
+    \put(0.62190609,0.3896322){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[b]{\smash{$\unit{50}{\milli\metre}$}}}}%
+    \put(0.34004493,0.66662709){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{FoV}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{FieldOfView3D.pdf}}%
+    \put(0.25730129,0.28909207){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{$x$}}}%
+    \put(0.45230906,0.12060535){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{$y$}}}%
+    \put(0.43046819,0.22512954){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{$z$}}}%
+  \end{picture}%
+\endgroup%

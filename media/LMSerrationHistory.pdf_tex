@@ -1,0 +1,88 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'LMSerrationHistory.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{436.59114327bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.44108783)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{LMSerrationHistory.pdf}}%
+    \put(0.20642684,0.38046794){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{2011}}}}%
+    \put(0.32401087,0.38046794){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{2012}}}}%
+    \put(0.44159498,0.38046794){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{2013}}}}%
+    \put(0.55917904,0.38046794){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{2014}}}}%
+    \put(0.67676309,0.38046794){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{2015}}}}%
+    \put(0.79434709,0.38046794){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{2016}}}}%
+    \put(0.91193121,0.38046794){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{\ldots}}}}%
+    \put(0.08804112,0.38277003){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{\ldots}}}}%
+    \put(0.20549421,0.3438941){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{Mk 0}}}}%
+    \put(0.32307824,0.35449554){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{Mk 0}}}}%
+    \put(0.32118933,0.33277317){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{Mk I}}}}%
+    \put(0.44121053,0.34363438){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{Mk I}}}}%
+    \put(0.55827644,0.34363438){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{Mk II}}}}%
+    \put(0.67586049,0.34363438){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{Mk II-D}}}}%
+    \put(0.79362864,0.34363438){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{Mk II-D}}}}%
+    \put(0.9115467,0.34363438){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{Mk III}}}}%
+    \put(0.04146198,0.30642996){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.09264162\unitlength}\raggedright \end{minipage}}}%
+    \put(0.04275767,0.30966918){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.09134593\unitlength}\raggedright \end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{LMSerrationHistory.pdf}}%
+    \put(0.0369983,0.30873445){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.10291501\unitlength}\raggedright \textbf{Creation of the }\textbf{LM aeroacoustics }\textbf{section.}\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{LMSerrationHistory.pdf}}%
+    \put(0.15793525,0.30873445){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.10291501\unitlength}\raggedright \textbf{First serration }\textbf{prototype for an }\textbf{80 m rotor.}\textbf{\\ }\textbf{\\ }\textbf{Polycarbonate }\textbf{material.}\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{LMSerrationHistory.pdf}}%
+    \put(0.27520744,0.30873445){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.10291501\unitlength}\raggedright \textbf{Field test, 1.5 dB }\textbf{reduction }\textbf{measured on 80 }\textbf{m rotor.}\textbf{\\ }\textbf{\\ }\textbf{Developments }\textbf{and learnings on }\textbf{to MK I }\textbf{serrations.}\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{LMSerrationHistory.pdf}}%
+    \put(0.39247963,0.30873445){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.10291501\unitlength}\raggedright \textbf{120 m rotor }\textbf{tested, with 1.5 }\textbf{dB noise }\textbf{reduction.}\textbf{\\ }\textbf{\\ }\textbf{Low structural }\textbf{strength }\textbf{serrations.}\textbf{\\ }\textbf{\\ }\textbf{Crack issues }\textbf{identified in lab }\textbf{tests.}\textbf{\\ }\textbf{\\ }\textbf{Blade strain load }\textbf{transfer risk on }\textbf{attachment.}\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{LMSerrationHistory.pdf}}%
+    \put(0.50975182,0.30873445){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.10291501\unitlength}\raggedright \textbf{Change to }\textbf{polyurethane as }\textbf{main material.}\textbf{\\ }\textbf{\\ }\textbf{High structural }\textbf{strength achieved }\textbf{with new }\textbf{material and }\textbf{geometry.}\textbf{\\ }\textbf{\\ }\textbf{Acoustic }\textbf{requirements not }\textbf{met.}\textbf{\\ }\textbf{\\ }\textbf{Attachment }\textbf{bonding issues }\textbf{resolved. }\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{LMSerrationHistory.pdf}}%
+    \put(0.62702401,0.30873445){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.10291501\unitlength}\raggedright \textbf{Noise reduction }\textbf{improved.}\textbf{\\ }\textbf{\\ }\textbf{Structural and }\textbf{bonding strength }\textbf{enhanced.}\textbf{\\ }\textbf{\\ }\textbf{Confirmation of }\textbf{lifetime reliability }\textbf{from extensive }\textbf{lab testing.}\textbf{\\ }\textbf{\\ }\textbf{Serrations }\textbf{introduced as an }\textbf{add-on for a }\textbf{range of LM }\textbf{blades.  }\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{LMSerrationHistory.pdf}}%
+    \put(0.7442962,0.30873445){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.10291501\unitlength}\raggedright \textbf{Further field tests }\textbf{increase }\textbf{confidence in }\textbf{noise reduction }\textbf{levels.}\textbf{\\ }\textbf{\\ }\textbf{Serrations are }\textbf{ready for serial }\textbf{production, with }\textbf{several customers }\textbf{in line for }\textbf{introduction to }\textbf{various markets.  }\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{LMSerrationHistory.pdf}}%
+    \put(0.86156839,0.30873445){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.10291501\unitlength}\raggedright \textbf{Apply learnings }\textbf{througout the }\textbf{board: }\textbf{\\ }\textbf{\\ }\textbf{acoustics,}\textbf{\\ }\textbf{structural,}\textbf{\\ }\textbf{application,}\textbf{\\ }\textbf{procedures,}\textbf{\\ }\textbf{health and safety,}\textbf{\\ }\textbf{transport, ...}\textbf{\\ }\textbf{\\ }\textbf{and keep }\textbf{improving things.}\end{minipage}}}%
+  \end{picture}%
+\endgroup%
